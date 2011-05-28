@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="custom_theme_color">#ffffff</color>
+	<color name="white">#ffffff</color>
+	<color name="gray">#666666</color>
+	<color name="lite_gray">#d0cece</color>
+	<color name="black">#151515</color>
+	<color name="blue">#3399cc</color>
+	<color name="yellow">#f2ec3e</color>
+</resources>
